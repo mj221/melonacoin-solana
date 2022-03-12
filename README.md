@@ -6,4 +6,4 @@ Use Solana CLI from https://docs.solana.com/cli/install-solana-cli-tools#use-sol
 $ cargo build
 $ cargo test
 ```
-WIP Solana Project
+A simple escrow on Solana
