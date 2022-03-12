@@ -1,3 +1,4 @@
 pub mod entrypoint;
-pub mod instruction.rs;
+pub mod instruction;
+pub mod processor;
 
